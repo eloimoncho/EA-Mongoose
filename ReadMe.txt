@@ -1,1 +1,1 @@
-Aquí
+Aquí està l'exercici corresponent a l'entrega del Seminari 4
